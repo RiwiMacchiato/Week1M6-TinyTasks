@@ -2,7 +2,7 @@
  * API module - Handles all communication with the backend
  */
 
-const API_URL = 'http://localhost:8080/api/todos';
+const API_URL = 'https://tinytasks-backend.onrender.com/api/todos';
 
 /**
  * Fetches all tasks from the backend
