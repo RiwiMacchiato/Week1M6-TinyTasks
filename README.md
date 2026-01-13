@@ -18,7 +18,7 @@ TinyTasks is a microapplication designed to practice building a minimal project 
   - HTML5
   - CSS3
   - JavaScript (ES6+)
-  - Bootstrap 5.3.0
+  - Bootstrap 5.3.0.
 
 - **Persistence:** In-memory (no database)
 
