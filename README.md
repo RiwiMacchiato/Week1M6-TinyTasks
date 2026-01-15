@@ -1,4 +1,4 @@
-# TinyTasks - Crudzaso
+# TinyTasks - Crudzaso.
 
 A simple task management application built with Spring Boot and vanilla JavaScript.
 
